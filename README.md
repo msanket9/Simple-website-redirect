@@ -1,1 +1,1 @@
-# Saafwater.in
+# A simple way to redirect 
